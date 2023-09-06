@@ -136,7 +136,6 @@ button {
 }
 
 .section-3 {
-    border: 2px solid red;
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
@@ -162,4 +161,30 @@ button {
     margin-right: 60px;
     text-align:end
 }
+
+.section-4 {
+    display: flex;
+    justify-content: center;
+}
+
+.CTA-box {
+    width: 980px;
+    height: 165px;
+    background-color: #3882F6;
+    border-radius: 4px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 60px 0;
+  
+}
+
+#CTA-text {
+    color: #F9FAF8;
+}
+
+h3 {
+    display:inline;
+}
+
 
